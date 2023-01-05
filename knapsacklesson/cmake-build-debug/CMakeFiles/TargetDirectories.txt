@@ -1,0 +1,3 @@
+/Users/jagtardhillon/CLionProjects/knapsacklesson/cmake-build-debug/CMakeFiles/knapsacklesson.dir
+/Users/jagtardhillon/CLionProjects/knapsacklesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jagtardhillon/CLionProjects/knapsacklesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/jagtardhillon/CLionProjects/contest1/cmake-build-debug/CMakeFiles/contest1.dir
+/Users/jagtardhillon/CLionProjects/contest1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jagtardhillon/CLionProjects/contest1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

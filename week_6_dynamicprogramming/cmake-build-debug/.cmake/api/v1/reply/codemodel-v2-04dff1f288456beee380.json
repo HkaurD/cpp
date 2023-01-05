@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "week_6_dynamicprogramming",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "week_6_dynamicprogramming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-week_6_dynamicprogramming-Debug-49755e22a2c57addd78a.json",
+					"name" : "week_6_dynamicprogramming",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/harbinkaurdhillon/Library/CloudStorage/OneDrive-Personal/harbinkaur'sdocs/c++/week_6_dynamicprogramming/cmake-build-debug",
+		"source" : "/Users/harbinkaurdhillon/Library/CloudStorage/OneDrive-Personal/harbinkaur'sdocs/c++/week_6_dynamicprogramming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
